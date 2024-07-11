@@ -1,0 +1,1 @@
+Need to install some extensions in VS Code before start React development
